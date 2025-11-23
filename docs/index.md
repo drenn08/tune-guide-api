@@ -83,8 +83,8 @@ When run locally for testing, the `{base_url}` is generally `http://localhost:30
 
 See:
 
-- [channels resource](https:)
-- [shows resource](https:)
+- [channels resource](api/channels.md)
+- [shows resource](api/shows.md)
 
 ## Contact us
 
