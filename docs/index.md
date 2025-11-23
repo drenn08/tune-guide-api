@@ -30,6 +30,8 @@ last_updated: "2025-10-25"
 
 Tune Guide API aggregates SiriusXM channel, music schedule, and show information.
 
+**Note**: This is a mock API to simulate the REST interface of an imaginary service.
+
 ## What is the Tune Guide API?
 
 TuneGuide is a Rest API that integrates music channel listings and show information into one accessible, easy-to-use API.
@@ -68,8 +70,8 @@ Developers integrating the TuneGuide API into music-centric applications for mus
 
 See:
 
-- [Before you start a tutorial](https://)
-- [Tutorials](https://)
+- [Before you start a tutorial](tutorials/before-you-start-a-tutorial.md)
+- [Tutorials](tutorials/tutorials.md)
 
 ## Learn More
 
